@@ -121,11 +121,6 @@ body {
     }
 }
 
-
-/*
- * Cover
- */
-
 .cover {
     padding: 0 1.5rem;
 }
@@ -133,11 +128,6 @@ body {
     padding: .75rem 1.25rem;
     font-weight: bold;
 }
-
-
-/*
- * Footer
- */
 
 .mastfoot {
     color: rgba(255,255,255,.5);
